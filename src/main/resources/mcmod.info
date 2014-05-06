@@ -1,0 +1,16 @@
+[
+{
+  "modid": "meliorcraft",
+  "name": "MeliorCraft",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Nova1", "The_NetZ"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
