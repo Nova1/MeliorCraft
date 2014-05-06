@@ -1,4 +1,0 @@
-MeliorCraft
-===========
-
-Minecraft mod
